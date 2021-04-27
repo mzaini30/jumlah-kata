@@ -1,5 +1,5 @@
 {
-  "name": "Jumlah-Kata",
+  "name": "Jumlah_Kata",
   "version": "0.0.0",
   "scripts": {
     "dev": "run-p dev:*",
