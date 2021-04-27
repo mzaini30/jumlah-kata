@@ -1,5 +1,5 @@
 {
-  "name": "Jumlah_Kata",
+  "name": "svelte",
   "version": "0.0.0",
   "scripts": {
     "dev": "run-p dev:*",
